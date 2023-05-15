@@ -3,7 +3,7 @@
 Learn data analyst skills step by step in 3 months
 Following is a schedule to learn data science step by step considering 4 hours of dedicated, focused study every single day. This program is perfect for beginners with no knowledge of data science and programming.
 
-Week 1 and 2: Excel and Statistics
+<h1> Week 1 and 2: Excel and Statistics </h1>
 Excel
 
 Google templates gallery for personal finance etc : https://docs.google.com/spreadsheets/u/0/?ftv=1
@@ -16,7 +16,9 @@ Khan academy: https://www.khanacademy.org/math/statistics-probability
 Khan academy youtube: https://www.youtube.com/playlist?list=PL1328115D3D8A2566
 Statistics by Marin : https://www.youtube.com/playlist?list=PLqzoL9-eJTNBZDG8jaNuhap1C9q6VHyVa
 Statquest youtube channel: https://www.youtube.com/user/joshstarmer
-Week 3, 4, 5: BI tools
+
+
+<h1> Week 3, 4, 5: BI tools </h1> 
 Power BI is becoming quite popular and I would suggest learning Power BI over Tableau unless you have a strong reason to pick the later.
 
 Power BI (project)
@@ -30,7 +32,8 @@ Codebasics sales insights project: https://www.youtube.com/playlist?list=PLeo1K3
 HINDI codebasics sales insights project: https://www.youtube.com/playlist?list=PLPbgcxheSpE2B7YFfOualUTlRhgnQR7Kn
 Abhishek Agarwal: https://www.youtube.com/playlist?list=PL6_D9USWkG1C4raCOTlTf_oq4XnNNNtm9
 Bharti consultancy: https://www.youtube.com/playlist?list=PLyD1XCIRA3gQmN73dHwQWr4R08ABZFMtZ
-Week 6 and 7: Python
+
+<h1> Week 6 and 7: </h1>
 Python
 My Python course that is 5X better than the free playlists: https://codebasics.io/courses/python-for-beginner-and-intermediate-learners
 If you do above course you do not need to follow the youtube playlists
@@ -50,7 +53,8 @@ Kaggle exploratory data analysis
 
 Notebooks: https://www.kaggle.com/notebooks
 Datasets: https://www.kaggle.com/datasets
-Week 10, 11, 12: SQL & MongoDB
+<h1> Week 10, 11, 12: </h1> 
+  SQL & MongoDB
 SQL
 
 Check my affordable and latest SQL course: https://codebasics.io/courses/sql-beginner-to-advanced-for-data-professionals
